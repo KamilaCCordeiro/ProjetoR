@@ -3,3 +3,7 @@
 # Versão 3
 mutate()
 renaem()
+# Novas linhas de comando
+# Segunda parte
+join()
+select()
